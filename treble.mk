@@ -59,7 +59,7 @@ PRODUCT_PACKAGES += \
 
 # Light
 PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.shamu
+    android.hardware.light@2.0-impl
 
 # NFC
 PRODUCT_PACKAGES += \
